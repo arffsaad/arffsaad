@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🌱 Currently learning Spring Boot, Angular and Tailwind! Also actively learning DevOps and K8s
+- 🔭 Mainly developing in PHP. Great at Bash scripting as well!
+- ⚡ My biggest side interest is Automation and Smart Home Automation.
+
 <!--
 **arffsaad/arffsaad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
